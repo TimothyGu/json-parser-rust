@@ -1,0 +1,17 @@
+[package]
+name = "json-parser"
+version = "0.1.0"
+authors = ["Timothy Gu <timothygu99@gmail.com>"]
+edition = "2018"
+# rust = "1.54" # https://github.com/rust-lang/rust/issues/65262
+description = "Toy JSON parser"
+repository = "https://github.com/TimothyGu/json-parser-rust"
+license = "MIT OR BlueOak-1.0.0"
+keywords = ["json"]
+publish = false
+resolver = "2"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[lib]
+name = "json"
