@@ -12,6 +12,8 @@ publish = false
 resolver = "2"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+[dependencies]
+ryu = "1.0.5"
 
 [lib]
 name = "json"

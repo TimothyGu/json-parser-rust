@@ -5,6 +5,6 @@ use std::env;
 fn main() {
     let json_text = env::args().nth(1).expect("input not found");
     let v = json::parse(&json_text).expect("failed to parse JSON input");
-    println!("{:?}", v);
-    println!("{:?}", v.clone());
+    println!("{}", v);
+    println!("{}", v.clone());
 }
