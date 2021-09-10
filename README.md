@@ -10,4 +10,5 @@ parser](https://github.com/TimothyGu/json-parser-cpp) I wrote in C++.
 ## License
 
 This repository may be used freely in accordance with the MIT License
-(LICENSE.MIT.md) or the Blue Oak Model License version 1.0.0.
+(LICENSE.MIT.md) or the Blue Oak Model License version 1.0.0
+(LICENSE.BlueOak.md).
